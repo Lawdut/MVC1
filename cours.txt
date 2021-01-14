@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^etudiants$ index.php
+
+// requète qui ramènera vers l'index si l'on écrit "etudiants" dans la barre d'adresse
+
+
